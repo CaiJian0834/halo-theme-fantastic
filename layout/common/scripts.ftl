@@ -1,5 +1,5 @@
 <#--<script src="${theme_base!}/source/js/jquery.min.js"></script>-->
-<script src="${theme_base!}/source/js/jquery.min.js"></script>
+<script src="../../source/js/jquery.min.js"></script>
 <#include "../plugin/gallery.ftl">
 <#include "../plugin/outdated-browser.ftl">
 <#include "../plugin/mathjax.ftl">
