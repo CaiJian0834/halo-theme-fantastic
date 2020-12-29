@@ -34,7 +34,7 @@
         </div>
 
         <!-- partial -->
-        <script src='../../source/js/jquery.min.js'></script>
+        <script src='${theme_base!}/source/js/jquery.min.js'></script>
         <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
     </#if>
 </#macro>
