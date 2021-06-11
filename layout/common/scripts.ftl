@@ -8,6 +8,7 @@
 
 <script src="${theme_base!}/source/js/bundle.js"></script>
 <#if is_index??>
+    <script src='${theme_base!}/source/js/swiper.min.js'></script>
     <script src="${theme_base!}/source/js/widget_pin.js"></script>
 </#if>
 <#if is_post??>
